@@ -1,0 +1,50 @@
+﻿{
+  "name": "urdu-toolkit",
+  "version": "1.0.0",
+  "description": "Zero-dependency Urdu toolkit: Roman Urdu to Urdu converter, numbers and amounts in Urdu words (lakh/crore), Urdu digits, Urdu and Hijri dates, and Urdu text normalization. Plus an Urdu AI prompts library.",
+  "type": "module",
+  "main": "./src/index.js",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./src/index.js"
+    }
+  },
+  "files": [
+    "src",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "urdu",
+    "roman-urdu",
+    "transliteration",
+    "urdu-numbers",
+    "number-to-words",
+    "hijri",
+    "islamic-calendar",
+    "pakistan",
+    "nlp",
+    "rtl",
+    "lakh",
+    "crore"
+  ],
+  "author": "mubasher1111",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mubasher1111/urdu-toolkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mubasher1111/urdu-toolkit/issues"
+  },
+  "homepage": "https://zexcart.site/urdu-toolkit/",
+  "engines": {
+    "node": ">=18"
+  }
+}
