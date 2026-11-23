@@ -10,7 +10,7 @@ Roman Urdu → Urdu converter · numbers and amounts in Urdu words · Urdu digit
 ![Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-📖 **[Read the full guide](https://zexcart.site/urdu-toolkit/)** · 🧮 **[Try it online](https://zexcart.site/dev-tools/#urdu-tools)** · 🤖 **[Urdu AI prompts](prompts/README.md)**
+📖 **[Read the full guide](https://zexcart.site/urdu-toolkit/)** · 🧮 **[Try it online](https://zexcart.site/urdu-toolkit/#urdu-tools)** · 🤖 **[Urdu AI prompts](prompts/README.md)**
 
 ---
 

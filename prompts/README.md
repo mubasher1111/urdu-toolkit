@@ -122,7 +122,7 @@ Neeche diye gaye Roman Urdu text ko sahi Urdu script mein likho. Spelling durust
 """
 ```
 
-> For instant offline conversion you can also use `romanToUrdu()` from this package, or the free tool at [zexcart.site/dev-tools](https://zexcart.site/dev-tools/).
+> For instant offline conversion you can also use `romanToUrdu()` from this package, or the free online converter at [zexcart.site/urdu-toolkit](https://zexcart.site/urdu-toolkit/#roman-urdu).
 
 ---
 
